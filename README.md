@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I'm+INYert;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Consolas&size=45&duration=2000&pause=2000&color=3A7DF7&center=true&vCenter=true&random=true&width=800&lines=I'm+INYert;Welcome+to+my+GitHub+homepage;%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E7%84%A1%E9%99%90%E9%80%B2%E6%AD%A5." alt="Hello World" title="Hello World"/>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=INYerty&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
