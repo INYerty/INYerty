@@ -17,7 +17,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,js,css,html,vuejs,python,fastapi,c,cpp,qt,docker,git,obsidian,regex,spring,mysql,maven,nginx,redis,rabbitmq,elasticsearch,ubuntu,windows,apple,idea,vscode,gmail,instagram,notion,twitter&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,vuejs,python,fastapi,c,cpp,qt,docker,git,regex,spring,mysql,maven,nginx,redis,rabbitmq,elasticsearch,ubuntu,apple,idea,pycharm,vscode,gmail,instagram,twitter,notion,obsidian&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 - 👋 Hi, I’m @INYerty
