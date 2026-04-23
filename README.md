@@ -15,7 +15,7 @@
     <img width="400" src="https://streak-stats.demolab.com/?user=INYerty&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=INYerty.INYetry" alt="visitors"/>   
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
