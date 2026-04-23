@@ -22,6 +22,7 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,vuejs,python,fastapi,c,cpp,qt,docker,git,regex,spring,mysql,maven,nginx,redis,rabbitmq,elasticsearch,ubuntu,apple,idea,pycharm,vscode,gmail,instagram,twitter,notion,obsidian&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
+<!---
 - 👋 Hi, I’m @INYerty
 - 👀 I’m interested in Coding...
 - 🌱 I’m currently learning SpringBoot/SpringMVC/Mybatis/Vue/苍穹外卖/若依框架/微服务框架...
@@ -29,7 +30,7 @@
 - 📫 How to reach me Shandong Province,China...
 - 😄 Pronouns: Passion!!...
 - ⚡ Fun fact: Emm......
-
+--->
 
 
 <!---
