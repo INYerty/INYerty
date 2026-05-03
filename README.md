@@ -16,13 +16,12 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=INYerty&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&include_all_commits=true&number_format=long" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api?username=INYerty&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&include_all_commits=true&number_format=long" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=INYerty&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
     <img width="400" src="https://streak-stats.demolab.com/?user=INYerty&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
-
 
 
 
