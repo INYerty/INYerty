@@ -4,7 +4,7 @@
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=INYerty&theme=github-compact&radius=16&hide_border=true&title_color=006aff&area=true&area_color=006aaf&color=006aff&line=2396ed&point=4285f4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=INYerty&theme=github-compact&radius=16&hide_border=true&title_color=006aff&area=true&area_color=006aaf&color=006aff&line=2396ed&point=2396ed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
     <a href="https://github.com/liang14658fox/liang14658fox"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
