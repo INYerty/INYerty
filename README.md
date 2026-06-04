@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://github.com/liang14658fox/liang14658fox"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=INYerty.INYetry" alt="visitors"/>
-    <a href="https://github.com/INYerty/INYerty/graphs/contributors"><img src="https://img.shields.io/github/contributors/INYerty/INYerty?color=blue"></a>
+    <!-- <a href="https://github.com/INYerty/INYerty/graphs/contributors"><img src="https://img.shields.io/github/contributors/INYerty/INYerty?color=blue"></a> -->
     <img src="https://img.shields.io/badge/BIO-无限进步-aqua?logo=github"/>
 </p>
 
