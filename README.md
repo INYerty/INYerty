@@ -7,7 +7,7 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=INYerty&theme=github-compact&radius=16&hide_border=true&title_color=006aff&area=true&area_color=006aaf&color=006aff&line=2396ed&point=8258d5)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://raw.githubusercontent.com/username/username/output/activity-graph.svg?v=1" alt="username github activity graph">
+  <img src="https://raw.githubusercontent.com/inyerty/inyerty/output/activity-graph.svg?v=1" alt="username github activity graph">
 </a>
 
 <p align="center">
